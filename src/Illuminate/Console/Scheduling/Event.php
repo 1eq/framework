@@ -67,7 +67,6 @@ class Event {
 	 * @var bool
 	 */
 	public $runInBackground = false;
-
 	/**
 	 * The filter callback.
 	 *
